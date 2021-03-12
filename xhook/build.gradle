@@ -34,3 +34,8 @@ android {
         }
     }
 }
+
+ext {
+    POM_NAME = "xHook Prefab"
+    POM_DESCRIPTION = "Prefab version of xHook (https://github.com/iqiyi/xHook)."
+}
